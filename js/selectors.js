@@ -7,6 +7,7 @@ function lastImageSelector(){
   return $("img:last")
 }
 
+
 function divSelector(){
   return $("div > div", "#tab")
 }
