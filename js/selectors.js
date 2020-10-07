@@ -3,6 +3,6 @@ function paragraphSelector(){
   return $();
   }
 
-function lastImageSelector(){
 
-}
+
+
