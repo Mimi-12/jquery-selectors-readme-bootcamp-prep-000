@@ -11,6 +11,5 @@ function ninjaBabySelector(){
   return $("ninjaBaby:#ID")
 }
 
-function divSelector(){
-  return $("div > div", "#tab")
+
 }
