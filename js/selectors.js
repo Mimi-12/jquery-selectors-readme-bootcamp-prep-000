@@ -8,5 +8,5 @@ function lastImageSelector(){
 }
 
 function divSelector(){
-  return $("#pics > div > div")
+  return $("div > div", "#tab")
 }
